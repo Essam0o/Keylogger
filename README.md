@@ -8,7 +8,7 @@ This tool is for educational purpose only and not to make people make cyber atta
 
 # Usage
 
-First download the META-KILL.py
+First download the FILE.py
 Open it via vs code ( https://code.visualstudio.com/ )
 You will find the source code then modify it as u need regardless the comments that has been done 
 it is only to tell you how to act with python code 
